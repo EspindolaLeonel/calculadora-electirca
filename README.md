@@ -1,3 +1,3 @@
-# calculadora-electirca
+# Calculadora-eléctrica
 
-Esta proyecto es una herramienta para hacer calculos electricos hecha en python 
+Este proyecto es una herramienta para hacer cálculos electricos hecha en python. 
